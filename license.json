@@ -1,0 +1,21 @@
+{
+  "DAY1": {
+    "expire": "2026-06-05",
+    "type": "1 Day"
+  },
+
+  "WEEK7": {
+    "expire": "2026-06-12",
+    "type": "7 Day"
+  },
+
+  "MONTH1": {
+    "expire": "2026-06-28",
+    "type": "1 Month"
+  },
+
+  "LIFETIME": {
+    "expire": "lifetime",
+    "type": "Lifetime"
+  }
+}
