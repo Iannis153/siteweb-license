@@ -1,21 +1,25 @@
 {
   "DAY1": {
     "expire": "2026-06-05",
-    "type": "1 Day"
+    "type": "1 Day",
+    "activated_at": null
   },
 
   "WEEK7": {
     "expire": "2026-06-12",
-    "type": "7 Day"
+    "type": "7 Day",
+    "activated_at": null
   },
 
   "MONTH1": {
     "expire": "2026-06-28",
-    "type": "1 Month"
+    "type": "1 Month",
+    "activated_at": null
   },
 
   "LIFETIME": {
     "expire": "lifetime",
-    "type": "Lifetime"
+    "type": "Lifetime",
+    "activated_at": null
   }
 }
