@@ -1,23 +1,6 @@
 {
-  "DAY1": {
-    "expire": "2026-06-05",
-    "type": "1 Day",
-    "activated_at": null
-  },
-
-  "WEEK7": {
-    "expire": "2026-06-12",
-    "type": "7 Day",
-    "activated_at": null
-  },
-
-  "MONTH1": {
-    "expire": "2026-06-28",
-    "type": "1 Month",
-    "activated_at": null
-  },
-
-  "LIFETIME": {
+  
+  "IanisCheat": {
     "expire": "lifetime",
     "type": "Lifetime",
     "activated_at": null
