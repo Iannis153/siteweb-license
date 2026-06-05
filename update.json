@@ -1,1 +1,4 @@
-{ "status": "updated", "message": "Welcome! Everything is working normally." }
+{
+  "status": "updated",
+  "message": "Everything is working normally."
+}
